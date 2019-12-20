@@ -6,12 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="131339cc-bf8c-486c-a323-0a1107aa8725" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/RadioButtonExample.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/RadioButtonExample.ipr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RadioButtonExample.iws" beforeDir="false" afterPath="$PROJECT_DIR$/RadioButtonExample.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RadioButtonExample/radiobuttonsample/RadioButtonSample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/radiobuttonsample/RadioButtonSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/radiobuttonsample/RadioButtonExample.java" afterDir="false" />
-    </list>
+    <list default="true" id="131339cc-bf8c-486c-a323-0a1107aa8725" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +25,17 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -127,7 +133,7 @@
       <workItem from="1576688038082" duration="327000" />
       <workItem from="1576760577273" duration="339000" />
       <workItem from="1576773037480" duration="5006000" />
-      <workItem from="1576840111915" duration="1739000" />
+      <workItem from="1576840111915" duration="2523000" />
     </task>
     <task id="LOCAL-00001" summary="RadioButtonExample">
       <created>1576775572428</created>
@@ -136,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576775572428</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="RadioButtonExample">
+      <created>1576856028264</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576856028264</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
