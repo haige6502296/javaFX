@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="RadioButtonExample" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="131339cc-bf8c-486c-a323-0a1107aa8725" name="Default Changelist" comment="" />
+    <list default="true" id="131339cc-bf8c-486c-a323-0a1107aa8725" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/RadioButtonExample.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/RadioButtonExample.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RadioButtonExample.iws" beforeDir="false" afterPath="$PROJECT_DIR$/RadioButtonExample.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RadioButtonExample/radiobuttonsample/RadioButtonSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/radiobuttonsample/RadioButtonSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/radiobuttonsample/RadioButtonExample.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,16 +63,19 @@
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.13.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/radiobuttonsample" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/RadioButtonExamplea/RadioButtonExample.jar" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\ideaworkspace\RadioButtonExample\out\production\RadioButtonExample" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\workspace\ideaworkspace\RadioButtonExample\src\radiobuttonsample" />
       <recent name="D:\workspace\ideaworkspace\RadioButtonExample\src\radioButton" />
@@ -81,8 +94,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="RadioButtonSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="radiobuttonsample.RadioButtonSample" />
+    <configuration name="RadioButtonExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="radiobuttonsample.RadioButtonExample" />
       <module name="RadioButtonExample" />
       <extension name="coverage">
         <pattern>
@@ -96,7 +109,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RadioButtonSample" />
+        <item itemvalue="Application.RadioButtonExample" />
       </list>
     </recent_temporary>
   </component>
@@ -113,11 +126,35 @@
       <workItem from="1576687185926" duration="803000" />
       <workItem from="1576688038082" duration="327000" />
       <workItem from="1576760577273" duration="339000" />
-      <workItem from="1576773037480" duration="2498000" />
+      <workItem from="1576773037480" duration="5006000" />
+      <workItem from="1576840111915" duration="1739000" />
     </task>
+    <task id="LOCAL-00001" summary="RadioButtonExample">
+      <created>1576775572428</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576775572428</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="RadioButtonExample" />
+    <option name="LAST_COMMIT_MESSAGE" value="RadioButtonExample" />
   </component>
 </project>

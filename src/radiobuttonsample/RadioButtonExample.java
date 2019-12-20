@@ -43,7 +43,7 @@ import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
-public class RadioButtonSample extends Application {
+public class RadioButtonExample extends Application {
 
   private final ImageView icon = new ImageView();
 
